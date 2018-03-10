@@ -8,7 +8,9 @@
 
 ## Additional Notes
 Layer 0(default) Keymap for JergOP DZ60.
+
 Layer 1(FN 1) Keymap for JergOP DZ60.
+
 Layer 2(FN 2) Keymap for JergOP DZ60.
 
 
