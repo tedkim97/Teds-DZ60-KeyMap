@@ -1,6 +1,10 @@
-# JergIO Keymap for DZ60 PCB
+# JergOP Keymap for DZ60 PCB
 
-![LEdiodes Layer 0 Keymap for XD60](https://imgur.com/z1h9NPs)
+![JergOP Layer 0 Keymap for XD60](https://i.imgur.com/z1h9NPs.png)
+
+![](https://i.imgur.com/7H018rx.png)
+
+![](https://i.imgur.com/whjaoFo.png)
 
 ## Additional Notes
 Layer 0(default) Keymap for LEdiodes XD60.
