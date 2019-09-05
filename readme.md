@@ -1,4 +1,5 @@
 # JergOP Keymap for DZ60 PCB
+Uses QMK to flash the firmware on the KB
 
 Layer 0(default) Keymap for JergOP DZ60:
 ![JergOP Layer 0 Keymap for XD60](https://i.imgur.com/z1h9NPs.png)
