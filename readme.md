@@ -13,4 +13,4 @@ Layer 2(FN 2) Keymap for Ted's DZ60:
 ![DZ60 FN2 Layer](assets/fn2_layer.jpg)
 
 ### Build
-To build this keymap, insert the keymap into the correct directory, and run `bash make dz60:JergOP` 
+To build this keymap, insert the keymap into the correct directory, and run `make dz60:JergOP` 
